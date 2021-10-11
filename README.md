@@ -1,3 +1,6 @@
+Student Name&Id 1:Ravi Radadiya  - 0836175
+		2.Rohankumar Ghevariya - 0847621
+
 import Foundation
 class StockHolding: NSObject {
     var purchaseSharePrice: Float = 0.0
